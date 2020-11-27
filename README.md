@@ -1,9 +1,12 @@
-<img width="auto" height="150px" src="https://miro.medium.com/max/900/0*n3DRTlqqLO7oXyuv.png">
+<img width="auto" height="150px"  src="https://miro.medium.com/max/900/0*n3DRTlqqLO7oXyuv.png">
 
 
-# *Kauan Lazzarin*
+<h1 align="center">Kauan Lazzarin</h1>
 
-## Hello World!👋
+<h2 align="center">
+ console.log("Hello World!")👋
+ 
+</h2>
 I'm Kauan, 17 year old and a lot of will to learn all about programming!
 
  <br/> :heart_eyes:&nbsp;  I love all about Javascript (Python is my secret love, haha)
