@@ -1,6 +1,3 @@
-<img width="auto" height="150px"  src="https://miro.medium.com/max/900/0*n3DRTlqqLO7oXyuv.png">
-
-
 <h1 align="center">Kauan Lazzarin</h1>
 
 <h2 align="center">
