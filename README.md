@@ -6,7 +6,7 @@
 </h2>
 I'm Kauan, 17 year old and a lot of will to learn all about programming!
 
- <br/> :heart_eyes:&nbsp;  I love all about Javascript (Python is my secret love, haha)
+ <br/> :heart_eyes:&nbsp;  I love all about Javascript 
  <br/> :purple_heart:&nbsp; I'm currently learning about NodeJS and ReactJS
  <br/> 💬  &nbsp; About me: I've started studying Javascript on february 2020, and today I know a lot of this ecosystem, In my free times I like to play videogames, run, and read.
 
