@@ -10,7 +10,8 @@
   <p align="center">:heart_eyes:&nbsp;  I love all about Javascript </p>
   <p align="center">:purple_heart:&nbsp; I'm currently learning about NodeJS and ReactJS </p>
   <p align="center">💬&nbsp; About me: I've started studying Javascript on february 2020, and today I know a lot of this ecosystem. </p>
+  <p align="center">You can contact-me writing me an email: kauanlazzarin@gmail.com</p>
+</br>
 
-Contact-me! [![Gmail Badge](https://img.shields.io/badge/-kauanlazzaringmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauanlazzarin@gmail.com)
-
-
+ <img width="200px" src="https://i.imgur.com/w4dEE0p.gif">
+<i>The mountain before me is not always high. Chuckle It is not always a mountain. - Pantheon</i>
